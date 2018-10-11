@@ -9,5 +9,7 @@ docker run -d -p 8787:8787 \
   shiringlander/r-keras
 ```
 
-## see also 00_setup.html
+## See also 
+
+`00_setup.html`
 
